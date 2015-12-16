@@ -1,0 +1,1 @@
+Change the damage output of a weapon. See http://dev.bukkit.org/server-mods/changedamage/
